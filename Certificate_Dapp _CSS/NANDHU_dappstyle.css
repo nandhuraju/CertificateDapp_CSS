@@ -1,0 +1,27 @@
+
+
+/* body style="background-color: rgb(122, 164, 165);"> */
+
+.bdy{background-color: rgb(122, 164, 165);}
+
+
+.appstyle{font-family: Arial, Helvetica, sans-serif;text-align: right;}
+
+
+/* a:hover{font-size: 30px;color: rgb(155, 116, 89);} */
+
+/* h3{background-color: coral;} */
+
+
+.model{background-color: white;width: 1400px;height: 650px;
+    text-align: center;border-radius: 30px;
+    margin-left: auto;margin-right: auto;margin-top: 80px;
+    border-style: groove;}
+
+
+.button1:hover{background-color: rgb(73, 49, 207);color: white;}
+
+/* a:hover{background-color: blueviolet;color: white;} */
+
+
+@media only screen and (max-width:800px){.model{height: 600px;width: 500px;} img{height: 50px;}}
